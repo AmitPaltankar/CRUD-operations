@@ -10,7 +10,10 @@ Develop a RESTful API using Python flask that provides functionality for managin
     # pip install requirements.txt
 # To run flask application
     # flask run
-
+# To run test cases
+     # coverage run -m unittest test_app.py
+     # coverage report
+     # coverage html
 
 # Note: you can use postman tool to check the api end points.
 

@@ -2,11 +2,11 @@
 Develop a RESTful API using Python flask that provides functionality for managing products in an e-commerce application.
 
 # prerequisite
-  create virtual environment
+  # create virtual environment
     #  python3 -m venv env
-  for activating the env
+  # for activating the env
     # .\venv\Scripts\activate  
-  Run the requirements.txt file to install necessary packages
+  # Run the requirements.txt file to install necessary packages
     # pip install requirements.txt
 # To run flask application
     # flask run

@@ -9,7 +9,7 @@ Develop a RESTful API using Python flask that provides functionality for managin
   Run the requirements.txt file to install necessary packages
     # pip install requirements.txt
 # To run flask application
-  # flask run
+    # flask run
 
 
 # Note: you can use postman tool to check the api end points.
